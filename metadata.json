@@ -1,0 +1,6 @@
+{
+  "name": "DSA Progress Book",
+  "description": "Tactile algorithmic learning workbook and think-first platform for computer science students: Think, Plan, Visualize, Code, Socratic AI Mentorship, and Reflection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

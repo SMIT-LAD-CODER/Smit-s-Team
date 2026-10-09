@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "usr-student-01",
+      "email": "ladsmit.2756@gmail.com",
+      "name": "Smit Mehta",
+      "username": "smit_mehta",
+      "college": "NIT Trichy // CS Dept",
+      "avatar": "01",
+      "passwordHash": "dsa_demo_2025",
+      "createdAt": "2025-01-15T00:00:00.000Z",
+      "streakCount": 7,
+      "lastActiveDate": "2026-10-05T18:21:11.582Z",
+      "favoriteTopics": [
+        "Arrays & Hashing",
+        "Two Pointers",
+        "Binary Search"
+      ],
+      "settings": {
+        "theme": "light",
+        "dailyGoal": 2,
+        "difficultyPreference": "MEDIUM",
+        "preferredLanguage": "cpp",
+        "editorFontSize": 13,
+        "editorTheme": "carbon",
+        "editorTabSize": 4,
+        "editorWordWrap": false,
+        "reducedMotion": false,
+        "animationIntensity": "normal",
+        "highContrast": false,
+        "accountVisibility": "public",
+        "emailReminders": true
+      },
+      "progress": {
+        "two-sum": {
+          "status": "IN_PROGRESS",
+          "attempts": 3,
+          "lastAttemptAt": "2026-10-05T18:21:11.581Z",
+          "savedCode": ""
+        },
+        "valid-anagram": {
+          "status": "SOLVED",
+          "attempts": 1,
+          "completedAt": "2026-10-05T18:21:11.581Z"
+        }
+      },
+      "reflections": [
+        {
+          "problemId": "two-sum",
+          "problemTitle": "Two Sum",
+          "date": "OCT 04, 2026",
+          "corePattern": "Complement caching via hash map: trade O(N) memory for instantaneous O(1) lookup.",
+          "trapEncountered": "Must check if complement exists BEFORE storing current element to prevent self-pairing.",
+          "nextRevisionDate": "OCT 07, 2026",
+          "confidence": "HIGH"
+        }
+      ]
+    }
+  ],
+  "resetTokens": {}
+}
